@@ -47,3 +47,10 @@ Listed under the bullets are the Python libraries for the technique:
 
     * matplotlib: displaying the results of your final forecast compared to the actual data
 
+
+* Plot the training energy data over time. Feel free to use any plotting package you are comfortable with. The solution uses matplotlib, but seaborn is another popular plotting tool in Python.
+    * This is good to look at overall patterns. What generic overall patterns do you notice around the seasons of the year?
+
+* Dive deeper and plot one week of the training energy data (energy usage on the y-axis and date on the x-axis).
+   * It is good to view the data and the patterns at a granular level as we are forecasting on an hourly basis. What overall patterns do you notice around a day of the week? How about hours in a day?
+
